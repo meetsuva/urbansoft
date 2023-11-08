@@ -1,0 +1,40 @@
+.mobile-nav{
+    display: none;
+}
+
+@media (min-width:0px) and (max-width:750px)
+{
+    body{
+        margin-bottom: 270px;
+    }
+    
+.mobile-nav
+{
+    display: visible;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 20;
+}
+.mobile-nav a
+{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.mobile-nav a img
+{
+    width: 35px;
+}
+
+.navbar{
+    display: none;
+}
+} 

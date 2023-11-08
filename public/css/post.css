@@ -1,0 +1,37 @@
+.post{
+    margin: 90px 20% 0px;
+}
+.post>.img{
+    background-color: #FFB000;
+    height: 400px;
+    margin: 10px 0px 12px;
+}
+.post>h1{
+    text-align: justify;
+}
+.post>h2{
+    font-size: 1.1em;
+    color: #071952;
+    text-align: justify;
+}
+.post>.post-content{
+    text-align: justify;
+}
+
+@media(min-width:0px) and (max-width:750px){
+    .post{
+        margin: 90px 15px 0px;
+    }
+    .post>h1{
+        text-align: left;
+    }
+    .post>h2{
+        text-align: left;
+    }
+    .post>.img{
+        height: 300px;
+    }
+    .post>.post-content{
+        text-align:left;
+    }
+}
