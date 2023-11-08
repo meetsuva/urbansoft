@@ -1,10 +1,13 @@
 .post{
     margin: 90px 20% 0px;
 }
-.post>.img{
+.post>img{
     background-color: #FFB000;
     height: 400px;
+    width: 100%;
+    box-sizing: border-box;
     margin: 10px 0px 12px;
+    object-fit: cover;
 }
 .post>h1{
     text-align: justify;

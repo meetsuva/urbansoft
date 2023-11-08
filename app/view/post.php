@@ -18,7 +18,7 @@
         <div class="post">
             <h1>The billion-dollar brands spending big to go from stale to chic</h1>
             <h2>Iconic brands including Coors and Jello-O are revitalising themselves to win over new audiences as consumer tastes change.</h2>
-            <div class="img"></div>
+            <img src="" alt="">
             <div class="post-content">
             <p>hroughout the past 150 years, Coors has been many things: beloved beer brand of the American West; survivor of Prohibition; aluminium can innovator; boycott target and, later, beneficiary; household name and on the receiving end of more than a few jokes.</p>
             <br>
